@@ -1,0 +1,251 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Triple episcopacie or, a three-fold order of bishops : one of God, another of men, and another of the divell; the two later must be pluckt up, the former only must continue, and the reasons why. With a declaration of certaine other weighty points concerning the discipline and government of the church</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 37 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94862</idno>
+            <idno type="STC">Wing T2287</idno>
+            <idno type="STC">Thomason E178_1</idno>
+            <idno type="STC">ESTC R212674</idno>
+            <idno type="EEBO-CITATION">99871265</idno>
+            <idno type="PROQUEST">99871265</idno>
+            <idno type="VID">157112</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A94862)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 157112)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 31:E178[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Triple episcopacie or, a three-fold order of bishops : one of God, another of men, and another of the divell; the two later must be pluckt up, the former only must continue, and the reasons why. With a declaration of certaine other weighty points concerning the discipline and government of the church</title>
+               </titleStmt>
+               <extent>[2], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed, and are to be sold by Samuel Satterthvvait [..,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1641]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Imperfect; trimmed at foot, affecting imprint and some catchwords.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Bishops --  Early works to 1800.</term>
+               <term>Episcopacy --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-02</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2011-02</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:157112:1" rendition="simple:additions"/>
+            <p>TRIPLE EPISCOPACIE: OR, A THREE-FOLD ORDER OF BISHOPS: One of GOD, another of MEN, and another of the DIVELL; the two later muſt be pluckt up, the former only muſt continue, and the Reaſons why.</p>
+            <p>With a declaration of certaine other weighty points concerning the Diſcipline and Government of the Church:</p>
+            <q>
+               <bibl>Matth. 15. 13.</bibl> Every plant which mine heavenly Father hath not planted ſhould be rooted up.</q>
+            <figure>
+               <figDesc>three men holding books</figDesc>
+               <figure>
+                  <head>Of God,</head>
+                  <p>bible</p>
+               </figure>
+               <figure>
+                  <head>Of Man,</head>
+                  <p>Seruice book</p>
+               </figure>
+               <figure>
+                  <head>Of the Divell.</head>
+                  <p>Sup<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>sti<g ref="char:EOLhyphen"/>cion</p>
+               </figure>
+               <lg>
+                  <l>Loe, here are three men, standing in degree,</l>
+                  <l>The leaſt of theſe, the greateſt ought to be.</l>
+                  <l>The other two, of men and of the Devill.</l>
+                  <l>Ought to be rooted out for ere as evill.</l>
+               </lg>
+            </figure>
+            <p>Printed, and are to be ſold by SAMVEL SATTERTHVVAIT at his houſe <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:157112:2"/>
+            <pb n="1" facs="tcp:157112:2"/>
+            <head>A three-fold Epiſcopacie.
+We muſt needs make three Biſhops:
+<list>
+                  <item>1. Of God.</item>
+                  <item>2. Of MAN.</item>
+                  <item>3. Of the DIVELL.</item>
+               </list>
+            </head>
+            <p>
+               <seg rend="decorInit">B</seg>Iſhops ordained of God, or ſet up by the Law of God, doth declare nothing elſe but their calling, which by another more ſpeciall name, are called Paſtors, whom (ſaith <hi>Luke)</hi> the holy Ghoſt hath appointed Biſhops to feed the Church of God. And either of theſe names of Paſtor or of Biſhop, is proper to them in the new <hi>Teſtament,</hi> where<g ref="char:EOLhyphen"/>by the Apoſtle doth diſtinguiſh them from Apoſtles, Prophets, and Euangeliſts, which were callings to endure for a time, <hi>Epheſ.</hi> 4. 11. and from Deacons, 1 <hi>Tim.</hi> 3. &amp; <hi>Phil.</hi> 1. 1. for otherwiſe they are every where called Elders; and <hi>Paul</hi> doth call his Apoſtleſhip a Deacon<g ref="char:EOLhyphen"/>ſhip, <hi>Rom.</hi> 11. 13. But they are called Biſhops in regard of the ſheepe committed unto them, as though a man ſhould call them Watch<g ref="char:EOLhyphen"/>men of overſeers.</p>
+            <p>Theſe now were one alone, as where any Church but one Paſtor, or more, if the Church had more than one. And the meeting of them together joyntly with their Elders, whom <hi>Paul</hi> calls Govern<g ref="char:EOLhyphen"/>ours, of the other common name called, was the elderſhip. Their du<g ref="char:EOLhyphen"/>ty was to attend on the Word and Prayer, both publiquely and pri<g ref="char:EOLhyphen"/>vately, and in common to governe the Church, as appeareth by ma<g ref="char:EOLhyphen"/>ny places of Scripture.</p>
+            <p>That the ſame were ſubject to Magiſtrates, though prophane, ap<g ref="char:EOLhyphen"/>peareth not onely by the example of Chriſt the high Prieſt, and of the Apoſtles, but alſo by the expreſſe words of <hi>Paul,</hi> 1 <hi>Tim.</hi> 2. and <hi>Luke</hi> 12. 13.</p>
+            <div type="part">
+               <pb n="2" facs="tcp:157112:3"/>
+               <head>Of the Biſhop that is of Men.</head>
+               <p>THe Biſhop that is of Men, that is to ſay, brought into the Church by the alone wiſedome of man, beſides the expreſſe Word of God, is a certain power given to one certaine Paſtor above his other fellowes, yet limited with certaine orders or rules provided againſt tyranny. They which did beare this office of Biſhop, are called Bi<g ref="char:EOLhyphen"/>ſhops in regard of their fellow Elders, and the whole Clergie, as watchmen ſet over the Clergie.</p>
+               <p>That this calling was not brought in by the Word, it is manifeſt by that, that there is not to be found in the new <hi>Teſtament,</hi> ſo much as one ſyllable, whereby there may be the leaſt ſurmiſe of any ſuch thing: For although we doubt not, but all things ought to be done orderly in the Lords houſe, and therefore, that ſome one ſhould be preſident in every aſſembly, whom <hi>John</hi> in the <hi>Revelation</hi> ſeemeth to call the Angel of the Churches, And <hi>Auſtin</hi> calleth the moderator <hi>Proeſtota,</hi> yet this moderator of actions of the Church, ſaving this one thing, that he was the firſt in order in the company, had no autho<g ref="char:EOLhyphen"/>rity over his fellowes, neither did hee exerciſe any higher office. Therefore the author of the Epiſtle to the <hi>Hebrewes,</hi> as <hi>Hierome</hi> no<g ref="char:EOLhyphen"/>teth, doth call the whole company of the Elders, Governours; not any one certaine man. Such a one was <hi>Peter</hi> many times in the very aſſembly of the Apoſtles, of a great authority ſurely amongſt the Apoſtles, who were all otherwiſe equall, and yet he himſelfe one of the company of the Apoſtles, ſent by his companions to <hi>Samaria</hi> with <hi>John, Acts.</hi> 8. 14. and in the aſſembly giving an account of his Miniſtery, to thoſe that were of the Circumciſion, <hi>Acts</hi> 11. 2. But if any ſuch Biſhop like authority of any one above the reſt, as there was afterwards, had been then, ſurely the Apoſtles would have ſet down their names even at that time, in their letters which they ſent from one to another, eſpecially ſeeing <hi>Paul</hi> in his Epiſt. to the <hi>Philippians</hi> doth name Biſhops in the plurall number, and Deacons: or there ſhould have beene at leaſt ſome peculiar mention made of them. Which, ſeeing it is not done, it appeareth that amongſt theſe Go<g ref="char:EOLhyphen"/>vernors, there was none in degree above their companions and fel<g ref="char:EOLhyphen"/>low Biſhops: but as occaſion ſerved, the Churches were governed by a fellow-like and equall authority, among the fellow Elders in
+<pb n="3" facs="tcp:157112:3"/>
+their Elder-ſhips, he onely going before the reſt, whoſe godlineſſe and authority, the company did moſt allow of.</p>
+               <p>
+                  <hi>Epiphanius</hi> againſt the <hi>Arrians,</hi> defending the contrary opinion: namely, the Biſhop ordained by man, as ordained by God, doth bring forth three Reaſons to the contrary. Two, as it were, out of the Word of God: the third out of the Hiſtory of thoſe times. The firſt place is, 1 <hi>Tim.</hi> 5. 1. <hi>Rebuke not an Elder, &amp;c.</hi> whereby he gathereth, that <hi>Timothy</hi> had ſome authority over the Elders, that is, the Paſtors of the Church of <hi>Epheſus.</hi> But (be it ſpoken with the favour of ſo worthy a man) he ſhould have marked, that here an Elder is called, he that is ſuch by age, not he that is a Paſtor, which is declared by the oppoſition next following of young men.</p>
+               <p>Another place is out of the ſame Epiſtle, <hi>Receive not an occuſation againſt an Elder,</hi> 1 <hi>Tim.</hi> 5. 19. Whereby he gathereth, that the Elders were ſubject to the Biſhops and tribunall ſeat. But who will grant him that <hi>Timothy</hi> was Biſhop of <hi>Epheſus?</hi> For the hiſtory will eaſily refell that, which the Fathers doe report as certaine; for no man can deny that <hi>Timothy</hi> was one that accompanied <hi>Paul,</hi> and there<g ref="char:EOLhyphen"/>fore no Biſhop aſſigned to any one certaine place, who was ſent one while to this place, another while to that, for the eſtabliſhing of the Churches. And finally, that he was an Euangeliſt, and not a Biſhop of any one certaine flocke. I have deſired thee (ſaith he) to abide at <hi>Epheſus,</hi> whileſt I went into <hi>Macedonia.</hi> And why ſo? namely, to looke to the Church which he had begun to eſtabliſh, untill he were called for againe, which he doth in the other Epiſtle. What? and did the Apoſtle rob the <hi>Epheſians</hi> of their Biſhop without asking their Church at the leaſt? Surely, when hee went laſt to <hi>Jeruſalem,</hi> never minding to returne to <hi>Epheſians</hi> either he would have reſtored <hi>Timothy</hi> unto them, or the <hi>Epheſians</hi> would have required him againe of the Apoſtle, when hee put them in minde of ſo great danger at hand: or if any other were to be put into his roome, he would have made expreſſe mention in that his divine Sermon. But he is ſaid to have ſent for the Elders onely, and to have warned them of the duty belonging to them all. Yet it need not ſeeme ſtrange to any that the Euangeliſt <hi>Timothy,</hi> a man indued with ſo many and ſo great gifts remaining at <hi>Epheſus,</hi> did governe all things by his directi<g ref="char:EOLhyphen"/>on, as one in degree above the Elders, and by the Apoſtles authority appointed there for a time.</p>
+               <p>
+                  <pb n="4" facs="tcp:157112:4"/>
+But let us grant <hi>Epiphanius</hi> more than this, that <hi>Timothy</hi> had the authority of the laying on of hands out of theſe words of the Apo<g ref="char:EOLhyphen"/>ſtle, <hi>Lay not hands ſuddenly upon any:</hi> Let us grant this too, that theſe duties belonged to the Governours, yet we deny that <hi>Timothy</hi> could have had any authority therefore over the Elders of <hi>Epheſus,</hi> except he had been an Euangeliſt. For <hi>Paul</hi> himſelfe, <hi>Tim.</hi> 4. 14. doth ſhew ſufficiently, that the laying on of the hands was done in the name of the Elderſhip it ſelfe, not by the authority of any ſuperior. Now the Reaſons of the ſame <hi>Epiphanius</hi> are theſe: Biſhops (ſaith he) beget the Fathers of the Church, but Elders the ſonnes, in as much as Bi<g ref="char:EOLhyphen"/>ſhops, and not Elders ordained Biſhops. But what is this elſe, than to aske to have that which is in queſtion: for it may be, and ought to be anſwered, that the Biſhops tooke that authority upon them, without warrant of the Word of God, and that the rule is falſe, which concerning this matter, doth attribute it to the Apoſtles, which may be ſhewed by the ordaining of <hi>Timothy</hi> by the Elderſhip. Againe, for as much as election is the chiefe ground of Church-of<g ref="char:EOLhyphen"/>fices, which dependeth of the voyces of the whole company, and not of the laying on of hands, which made not Biſhops, but ſent them into their poſſeſſions after they had made them: we may more truly affirme with the Apoſtle, that the holy Ghoſt by the voyces of the childrem themſelves, made the Fathers, and not the Biſhops.</p>
+               <p>Another of his Reaſons is, a depraving of places alleged out of <hi>Paul,</hi> that the Church being new borne, Biſhops could not be ſo eſtabliſhed every where at the firſt, as is to be ſeene in the election of Deacons. Whom yet can <hi>Epiphanius</hi> perſwade, that it was for want of fit men only, that there were many Biſhops in every Church? For that which not only <hi>Hierome,</hi> but <hi>Epiphanius</hi> againſt the <hi>Miletians</hi> alſo reporteth, concerning them of <hi>Alexandria:</hi> that is, <hi>Alexandria</hi> never had two Biſhops, as the other cities, upon what ground the men of <hi>Alexandria</hi> did it, and followed not the examples of other Churches, let them ſee to it.</p>
+               <p>Finally, that this kinde of Biſhop, which who ſo beareth it, is not the firſt in order amongſt his fellow-Elders, but in degree above them, being the onely man in his dioceſſe, is not ordained by the Word of God, but by cuſtome amongſt the Fathers, <hi>Hierome</hi> wit<g ref="char:EOLhyphen"/>neſſeth, as very many others long ſince have obſerved: For theſe are his words in his Epiſtle to <hi>Euagrius.</hi>
+               </p>
+               <p>
+                  <pb n="5" facs="tcp:157112:4"/>
+The Apoſtle (ſaith he) doth teach plainly, that Elders and Biſhops are all one, &amp;c. And whereas one after was choſen to be ſet over the reſt, that (ſaith he) was a remedy found out for a remedy of ſchiſme, that every one drawing Chriſt unto himſelfe, might not rend the Church in ſunder. For at <hi>Alexandria</hi> alſo, from the time of <hi>Marke</hi> the Euangeliſt, to the time of <hi>Heraclea</hi> and <hi>Dionyfius</hi> the Biſhop, the Elders placed one in a high degree or place, choſen by themſelves, whom they called a Biſhop. Moreover, upon the firſt to <hi>Titus.</hi> An Elder, and a Biſhop (ſaith he) is all one, and before by the inſtigation of the Divell, there was partaking in Religion, it was ſaid amongſt the people: I am of <hi>Paul,</hi> of <hi>Apollos,</hi> and of <hi>Cephas:</hi> the Churches were governed by the common advice of the Elders. But after that every one imagined, that thoſe whom hee baptiſed were his owne, and not Chriſts: it was decreed throughout the whole world, that one choſen of the Elders, ſhould be ſet above the reſt; unto whom all the care of the Church might appertaine to the taking away of the ſeeds of contentions. And a little after, as the Elders know, that they are ſubject by the cuſtome of the Church to the Biſhop that is ſet over them: ſo let the Biſhops know, that they are greater than the Elders, rather by cuſtome, then by any vertue of the Lords appointment. Yea, and <hi>Auguſtine</hi> alſo in his 19. Epiſtle ſaith, that ac<g ref="char:EOLhyphen"/>cording to the titles of honour, which the uſe of the Church hath gotten, the office of a Biſhop is greater than the office of an Elder.</p>
+               <p>
+                  <hi>Chryſoſtome</hi> alſo witneſſeth, upon 1 <hi>Tim. cap.</hi> 3. that the Biſhops dif<g ref="char:EOLhyphen"/>fer from the Elders only in ordination, that is (as <hi>Theophylact</hi> ſpeaks more plainly) in the onely Ceremony of conſecration. <hi>Theodoret</hi> writing upon the ſame place, ſaith, That in the old time they called the ſame men Elders &amp; Biſhops, as though, for ſooth, the thing it ſelfe had then beene onely called by another name, and goeth about to prove that, becauſe <hi>Paul</hi> calleth <hi>Epaphroditus</hi> the Apoſtle of the <hi>Philippians.</hi> This is of no weight at all. The names which are given of fellow-labourer, and fellow-ſoldier doe declare, that hee was no Biſhop in this kind of Biſhop, but an Euangeliſt, tied to no one City, much leſſe to a Dioceſſe, of the number of thoſe whom the Apoſtles did keepe, to ſend to and fro, at the motion of the Spirit of God. The Councell of <hi>Nice</hi> alſo, diſputing about the degrees of Biſhops, allegeth ancient cuſtomes, whereof we mind to ſpeake anon. And
+<pb n="6" facs="tcp:157112:5"/>
+whereas <hi>Cyprian</hi> not in one place, calleth the Biſhops ſucceſſors of the Apoſtle, whoſe authority is from God; and if wee take it ſo, as though by the very commandement of God, theſe Biſhops are the ſame, that in time paſt the Apoſtles; the thing it ſelf doth refute that, ſeeing there was alwayes a certain portion aſſigned to every Biſhop. But the Apoſtles, by direction of the Spirit of God, though not con<g ref="char:EOLhyphen"/>fuſedly, did exerciſe their Miniſtery throughout the whole world. But if this be true, there ſhould have beene more Biſhops in the Church of <hi>Rome</hi> it ſelfe, namely, <hi>Peter</hi> and <hi>Paul,</hi> which yet after<g ref="char:EOLhyphen"/>wards was accounted peculiar to one. And ſurely, there cannot be more, the chiefe in one and the ſame company at one time. And whereas the name of Biſhops is ſaid of the Apoſtleſhip, <hi>Acts</hi> 1. 20. It maketh nothing to the matter, except a man by a like reaſon would have the Deacons to have beene Apoſtles, becauſe <hi>Paul</hi> cal<g ref="char:EOLhyphen"/>leth his Apoſtleſhip a Deaconſhip or Miniſtery. But wee are to looke into that alſo, that <hi>Hierome</hi> might ſeeme to be of the mind, that this kinde of Biſhop begun then, when as ſchiſmes aroſe up in the Church. That this is not ſo, we may gather out of <hi>Paul</hi> him<g ref="char:EOLhyphen"/>ſelfe, who of purpoſe writing to the <hi>Corinthians</hi> about the ſame matter, doth not onely paſſe over this remedy, but alſo as fore<g ref="char:EOLhyphen"/>ſeeing ſuch a matter, doth in the title of the Epiſtle, joyne unto him<g ref="char:EOLhyphen"/>ſelfe <hi>Soſthenes,</hi> to teach by his example how carefully this Primacie is to be avoided in aſſemblies of the Church, who (it is evident were not onely the firſt in order next unto Chiſt, but alſo higheſt in de<g ref="char:EOLhyphen"/>gree) did execute their Miniſtery in common. VVherefore, no not the ſame <hi>Paul</hi> alone would excommunicate the inceſtuous perſons by his Apoſtolicall authority, but by the authority of the whole Elderſhip, neither doth <hi>Peter</hi> doubt to call himſelfe fellow Elder.</p>
+               <p>Nay, this is ſo farre off from being any good remedy, from ſtaying of ſchiſmes, that contrariwiſe there was never more bitter conten<g ref="char:EOLhyphen"/>tion in the Church, than about this Primacy which had never come to paſſe, if this preheminence above their fellows had been forbid<g ref="char:EOLhyphen"/>den, or rather, if men had never brought it in. Whereupon we con<g ref="char:EOLhyphen"/>clude, that this kinde of Biſhop which is not of order, but of ſupe<g ref="char:EOLhyphen"/>riority, was brought in of man, and as <hi>Hierome</hi> ſaith, <hi>Tit.</hi> 1. by little and little, and that ſo as he is indeed thought, that the plants of diſ<g ref="char:EOLhyphen"/>ſention might be thereby plucked up, all the care was committed to one man.</p>
+               <p>
+                  <pb n="7" facs="tcp:157112:5"/>
+And whereas hee ſaith in the ſame place, that it was decreed throughout all the world: Wee are to underſtand it no otherwiſe, than of a privie cuſtome, brought in by little and little. And what<g ref="char:EOLhyphen"/>ſoever is found in <hi>Ignatius,</hi> or other antient Writers, when the Bi<g ref="char:EOLhyphen"/>ſhop of Satan was not yet found out, touching the authority of the Biſhops or Over-ſeers (as <hi>Juſtin</hi> ſpeaketh) is to be underſtood of this kinde of Biſhop.</p>
+            </div>
+            <div type="part">
+               <head>The Biſhop of the Divell.</head>
+               <p>THus alſo we deſcribe the Biſhop of the Divell; that even as that kind of Biſhop ordained of God, degenerated by little and little into an humane ordinance, whereof wee intreated in the ſecond place: ſo this of the Divell, againſt which we now labour, is ſprou<g ref="char:EOLhyphen"/>ted forth of the corruption of the Biſhop brought in by man. Of this intollerable corruption there are foule, moſt manifeſt, and un<g ref="char:EOLhyphen"/>doubted markes. Some of this kind of Biſhops have wholy ſingled themſelves from the Elderſhips, ſo that they have nothing to doe with them: Some have wholly aboliſhed them. And that they have challenged unto themſelves, and I know not to what Officials, the whole guidance of the Church, and chiefly the authority to elect, to depoſe, and to excommunicate: ſo as they not onely are above others, but as it were alone doe exerciſe Lordſhip over Gods inheritance, contrary to the expreſſe inhibition of <hi>Peter.</hi>
+               </p>
+               <p>That alſo they have invaded upon temporall dominions contrary to the flat commandement of Chriſt. And that they will not only be preſent, but alſo preſident in cauſes of this life, and affaires of the Common-wealth, the commandement of the Apoſtle to the con<g ref="char:EOLhyphen"/>trary notwithſtanding, 2 <hi>Tim.</hi> 2. 1. <hi>Cor.</hi> 6. yea, and that of Chriſt him<g ref="char:EOLhyphen"/>ſelfe, <hi>Luke</hi> 13. 14.</p>
+               <p>That alſo they waſte in riot and ſtatelineſſe againſt conſcience and all ſhame, the goods conſecrated to holy uſes.</p>
+               <p>That alſo they have tyed the Spirit of God to certaine places and perſons, as though the Biſhop of the more noble place, muſt needs haue neceſſary gifts above the reſt: or, as though he, who now is moſt fit, muſt needs be ſo alwayes.</p>
+               <p>And laſt of all, that they are the Image of that beaſt which is de<g ref="char:EOLhyphen"/>ſcribed, <hi>Apoc</hi> 13. as Pope <hi>Anacletus</hi> himſelfe witneſſeth, Epiſt. 2. in as much as they are diſtinguiſhed among themſelves, by thoſe their
+<pb n="8" facs="tcp:157112:6"/>
+thrones and degrees, according to the patern of the Roman Empire The Apoſtle, <hi>Act.</hi> 20. 19. foretold of this Hierarchie, as they terme it, of the falſe Biſhop, which in time became an Antichriſtian pri<g ref="char:EOLhyphen"/>macy. And in the 3. <hi>John</hi> 9. it is moſt manifeſt, that Satan begun even then to lay the foundation of this myſterie.</p>
+               <p>Now, out of the Hiſtory of the <hi>Nicene Councel,</hi> which otherwiſe touching doctrine, was every where received, it is cleare how foule diſſentions were even then, of ordering the bonds betweene the Biſhops, the fountaines whereof they were ſo farre from damming up, that pretending ancient cuſtomes, they confirmed the Patriarch<g ref="char:EOLhyphen"/>ſhip, and made a way for the horrible Papacie of <hi>Rome</hi> then ſliding on, and underlaid the ſeat for the Harlot that ſitteth upon ſeven mountaines. But far be it off, that theſe things, although they have their ancient &amp; great authority, ſhould be prejudiciall to the divine and Apoſtolicall writings, according to the rule wherof, there is no wiſe man wil doubt, that the councels themſelves are to be ſquared.</p>
+               <p>And to what purpoſe ſhould I confute that agreement between the Prieſthood of the <hi>Levites,</hi> and of Chriſt, which ſome old writers alledge to prove this divelliſh oligarchy, and at the length even plaine tyranny. Indeed, it is evident, that the high Prieſt was a fi<g ref="char:EOLhyphen"/>gure of Chriſt himſelfe, whoſe ſecond Image, if wee grant that the Biſhops are, it will follow, that there are as many images of Chriſt as there be Biſhops, in as much as there is none above him. But con<g ref="char:EOLhyphen"/>trariwiſe, no Biſhop hath been the Image of Chriſt. Beſides, Biſhops are not heads of the univerſal Church, but of their own particular: Nay, no heads at all, in as much as the Biſhops are under Archbiſh. the Archbiſhops under the Patriarchs, &amp; they again under the Pope, that is not under the true figure, but the counter ſeit figure of Chriſt. Now, ſeeing that our only head is taken up into heaven, a ſucceſſor for whom living for ever, we are not to ſeeke; who ſeeth not, that the Elders ordained by the Law of God, come in theroome of the Prieſts of the Law, and the Deacons to anſwer to the <hi>Levites?</hi>
+               </p>
+            </div>
+            <div n="1" type="question">
+               <head>The firſt Queſtion.</head>
+               <p>Seeing that there are ordained in ſeverall Churches, ſeverall Paſtors and Miniſters, and the authority of all Chriſts Miniſters in the Church ſeeme to be equall: Whether the office of the Biſhops be neceſſary in the Church to procure meetings when occaſion ſer<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#UOM" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+                  <pb n="9" facs="tcp:157112:6"/>
+on juſt cauſes: or whether all the Miniſters having equall autho<g ref="char:EOLhyphen"/>rity, and not under the authority of any ſuperiour Biſhop, ought to chuſe fit men with the conſent of the Patron who enjoyeth the benefice, and the people themſelves, as alſo to correct and re<g ref="char:EOLhyphen"/>move from the charge. And the manners of the people them<g ref="char:EOLhyphen"/>ſelves, who can hardly, or not at all, be kept in obedience without the bridle of the Biſhops authority, which may runne through in viſiting of the Churches of the Province, may put us in minde to retaine ſuch Biſhops. Againe, ſo often as there ſhall be dealing in matters touching the ſafety of the common wealth in the ſolemne aſſemblies of the Land, according to the Lawes which the kingdome hath of a long uſe and cuſtome received, there can be no<g ref="char:EOLhyphen"/>thing eſtabliſhed without the Biſhops, who have the third roome and place in the kingdome, which to take away, or wholly to put downe, would be very dangerous to the Common-wealth.</p>
+               <div type="answer">
+                  <head>The Anſwer to the firſt Queſtion.</head>
+                  <p>Whereas Satans Biſhop hath been the overthrow of the Church and all the Chriſtian kingdomes, whoſe head is the Romane Anti<g ref="char:EOLhyphen"/>chriſt, it is to be looked unto of all hands, eſpecially of all godly Princes, that they at once aboliſh it, if they mind the reformation of the Church, and their owne ſafety. As for the Biſhop ordained by man, and brought into the Church by little and little, whereby Satan made him a way for greater things, it had beene tolerable, ſo that with all the ancient good Lawes providing for the reſiſting of the governing by ſome few, had been in their former force againe. But beſides, that the ſtate of the world being quite changed, expe<g ref="char:EOLhyphen"/>rience of ſo many ages doth teach us too well, that unleſſe this root alſo be pluckt up, it will come to paſſe, that the ſame fruit will ſprout and bud forth againe. Finally, ſeeing the Lord hath ſo often decided this controverſie of ſuperiority among his own Diſciples, that he ſhut it clean out, ſeeing the rule both for doctrine &amp; good or<g ref="char:EOLhyphen"/>der of the Church, is to be ſought for out of the very writings of the Apoſtles: and it is manifeſted, the Churches then proſpered, when all this authority of one man over the reſt, yet was not, but as that grew up, ſo all things fell to decay. Finally, ſeeing where the rem. nants of this government by a few, are not cleane taken away, the worke of the Lord, is openly hindred: Our judgement is, that after
+<pb n="10" facs="tcp:157112:7"/>
+the chaſing away of this device of man, the Churches ſhall be well provided for, if they may be repaired according to the writings of the Apoſtles. And the reformation, as it ſeemeth to us, conſiſteth herein; that firſt the whole kingdome is to be divided into regions. Againe, the regions into pariſhes, either of cities or country townes; that in places moſt fit, and of greateſt aſſembly, be placed Paſtors, be<g ref="char:EOLhyphen"/>ing lawfully propounded by the company of their owne Elders, to the Kings Chriſtian Majeſtie, or the deputies thereof, and allowed of all. Laſtly, being received of their owne people, over whom they are to be ſet, they be placed, promulgation having gone be<g ref="char:EOLhyphen"/>fo<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>: and that in every pariſh the Paſtor may have with him ſit men to aſſiſt him, who alſo may, being watchfull, ſalve up the offences not ſo weighty, leaving the other of greater importance, to the whole Elderſhip. Alſo, that Elderſhip made of the Paſtors of pariſhes, both of City and countrey, and a ſufficient number of men approved for their godlineſſe &amp; wiſedome, lawfully alſo choſen, as is aforeſaid, be placed in moſt fit places, who aſſembling at a certain time and place, may determine of the Church affaires, of their owne government, according to the preſcript lawes, firſt ſet downe in a generall Coun<g ref="char:EOLhyphen"/>cell, and afterward confirmed by the authoritie of the ſoveraigne Majeſtie.</p>
+                  <p>In this company let there be choſen by comon voyces, one firſt in order, not ſuperiour in authority, who ſhall be thought moſt fit, and that without making choyce of any certain place, and but for a cer<g ref="char:EOLhyphen"/>taine time. After the expiring wherof, either let another be choſen, or elſe the ſame man is to be eſtabliſhed again for another time by a new conſent: whoſe office is to make report of the common affaires to the company, to demand their judgements, and to give ſentence by the judgement of the Elderſhip, having no authority given him over his fellowes, to whom rather he is moſt ſubject. In this aſſem<g ref="char:EOLhyphen"/>bly let nothing be debated of beſides matters of conſcience, &amp; that by the Word of God, and the lawes of Church diſcipline eſtabliſh<g ref="char:EOLhyphen"/>ed, drawne out of the Word of God, not one whit medling with the authority of the civill Magiſtrate. And let the ſoveraigne Majeſty and the lawfull Magiſtrate thereby appointed, be keepers of this order, and the puniſher of thoſe that ſeditiouſly rage againſt it. But if any ſhall imagin that this ſudden aboliſhing of both theſe Biſhops
+<pb n="11" facs="tcp:157112:7"/>
+will miniſter occaſion of new ſtirs, although wee ſee not with what conſcience the Biſhops may ſo challenge to themſelves the goods of the Church, or elſe call themſelves Biſhops, and live like Princes of this world: yet for to keepe the common peace, the ſoveraigne Ma<g ref="char:EOLhyphen"/>jeſty may leave unto them, which are now Biſhops, their revenues whole for their life time, ſo they trouble not the well made order of the Church, with providing there be none choſen into their place, when they be dead. As for the frowardneſſe of the people, it may be kept downe better a great deale by other reynes, than by the autho<g ref="char:EOLhyphen"/>rity of a falſe named Biſhop; as by preaching of the Word of God, by cenſures of the Church, and the authority of the Magiſtrate of the country, againſt the open troubles of the publike ſtate, either Eccleſiaſticall or civill. The Churches may very well be viſited at ſet times without any great coſt and Biſhoplike pride, by them whom every Elderſhip hath choſen under the Kings Majeſties au<g ref="char:EOLhyphen"/>thority, which will not be alwaies neceſſary, if the Elders doe right<g ref="char:EOLhyphen"/>ly execute their office. This ſitting of the Biſhops with the authori<g ref="char:EOLhyphen"/>ty of the voyce in the publike eſtates of the kingdome, came in with a manifeſt abuſe, contrary to the Word, and therefore in our minde is to be utterly aboliſhed. For the Biſhop hath nothing to do in or<g ref="char:EOLhyphen"/>dering of mere civill affaires: yet foraſmuch as in ſuch aſſemblies, eſpecially ſome things many times happen, belonging to the eſta<g ref="char:EOLhyphen"/>bliſhing of the eſtate and order of the Churches: the keepers wher<g ref="char:EOLhyphen"/>of the godly Magiſtrates ought to be, and not the over-turners, as we are taught by the example of holy Kings. It is very neceſſary, that as often as the meetings of the land are proclaimed, intelli<g ref="char:EOLhyphen"/>gence thereof be given to the chiefe Elders, who may be preſent in the behalfe of their ſeigniories, yet not ſitting as Judges, but dealing about matters of the Church onely with the eſtates of the land, as their Elderſhips have given them in charge, except the ſtates thinke good upon extraordinary occaſion, that they aske counſell of God about ſome other affaires alſo. If alſo the Kings Majeſtie thinke good to admit into counſell amongſt the Paſtors, or Elders, one, who ſhall be thought to be wiſe and experienced in things, he may admt him, though not as a Paſtor or Elder, yet as a citizen. And it were injurious to remove from their office in the Church, the Pa<g ref="char:EOLhyphen"/>ſtors, and much leſſe the Elders and Deacons, otherwiſe Lay-men
+<pb n="12" facs="tcp:157112:8"/>
+from that degree, which they hold as Citizens, either in the com<g ref="char:EOLhyphen"/>mon wealth, or in the aſſemblies. But the Kings Majeſtie, and all the Princes and Lords, are to be exceeding wary, that they make not courtlike governours of their Paſtors, to the great indamaging of the Church, as we have a faire example in <hi>Euſebius</hi> of <hi>Nicomedia</hi> in the Court of <hi>Conſtantine.</hi> As for the right of the patronage, leſt ſome man ſhould ſay, that it was gotten for himſelfe; Our judge<g ref="char:EOLhyphen"/>ment is, that it may be concealed, but not without ſome conditions: namely, that he which ſhall be choſen by the free voyces of the El<g ref="char:EOLhyphen"/>derſhip, ſhould be offered by the Patron to the Kings Majeſty, be<g ref="char:EOLhyphen"/>ing alſo to ſet upon his charge, after the conſenting of his flock.</p>
+               </div>
+            </div>
+            <div n="2" type="question">
+               <head>The ſecond Queſtion.</head>
+               <p>After that religion is reformed, it hath beene a received cuſtome that the Biſhops, and of the Miniſters, Paſtors and Elders, ſo many as ſhould be ſent of the Biſhops, ſhould aſſemble themſelves, that they, together with the chiefe Barons and Nobles which profeſſe the true Religion, might make enquirie after the doctrine and man<g ref="char:EOLhyphen"/>ners of every one. But ſeeing the Prince himſelfe is a lover of the true Religion, it is a queſtion whether there may be ſuch an aſſem<g ref="char:EOLhyphen"/>bly without the conſent or commandement of the Prince. Whether the Miniſters alone may meet as often as they will. Laſt of all, whe<g ref="char:EOLhyphen"/>ther the Nobles and other godly men and Elders (which are yeerly choſen with us out of the people &amp; nobility together) may lawfully or expediently come without the commandement of the King to ſuch aſſemblies. Which aſſembly of the nobles and people, ſeemeth to ſome altogether needleſſe under a godly Prince, either becauſe it hath not long ſince beene received by a mere cuſtome without any Law, and that under a Prince, who then reſiſted the Religion, whereby ſuch aſſemblies might have the greater authority: or elſe becauſe it may ſeeme dangerous, if ſo many nobles aſſemble ſo often without the conſent of the King, they may ſometimes conſult of ſomething elſe beſides Religion.</p>
+               <p>Others thinke that this aſſembly is in no caſe to be refuſed, but rather that it is very needfull, that the Nobles and other Religious men be preſent as helpers to their Miniſters in the aſſembly bea<g ref="char:EOLhyphen"/>ring witneſſe of their life and the peoples behaviour, otherwiſe it wil after come to paſſe, that if an impious Prince raigne afterward,
+<pb n="13" facs="tcp:157112:8"/>
+that neither Miniſters may ſafely aſſemble, neither can the deter<g ref="char:EOLhyphen"/>mination be put in execution, without the conſent, helpe and aide of the nobles.</p>
+               <div type="answer">
+                  <head>To the ſecond Queſtion.</head>
+                  <p>Councels are neceſſary in the Church for many cauſes, both to the retaining of agreement, and alſo to the ſeeking of remedies by common advice for the dangers which fall out. And laſt of all, to take order for thoſe that reſt not in the judgement of particular ſei<g ref="char:EOLhyphen"/>gniories, if they thinke they have any injurie done them. And theſe Councels are either of a whole nation, or of ſome one Region or Province or Dioceſſe (as they have begun to ſpeake after the de<g ref="char:EOLhyphen"/>ſcription of the Provinces of <hi>Rome)</hi> divided into many Seigniories.</p>
+                  <p>It is neceſſary that the Councels of the Provinces be divided for many cauſes, and except there be other urgent cauſes, they would be appointed rather every halſe yeere then quarterly, leſt in diſcour<g ref="char:EOLhyphen"/>ſing of matters, they ſpend the time in vaine. And it will be beſt for the avoiding of Ambition, that the Councell be not alwayes aſſem<g ref="char:EOLhyphen"/>bled in the ſame place of every Province: but as ſoone as one halfe yeeres Synode is diſcuſſed, it may be determined by common con<g ref="char:EOLhyphen"/>ſent, where ſhall be the place of the next following. It will be very well that two of every ſeigniory of the Province, choſen by com<g ref="char:EOLhyphen"/>mon voyces, and ſent with ſome commiſſion, be preſent at theſe Councels: one a Paſtor, and the other an Elder or a Deacon, Nei<g ref="char:EOLhyphen"/>ther would we have any ſtrife about ſitting, who ſhould ſit firſt or laſt, but every one to ſit, as it ſhall fall out without any contention, and the judgement to be given as any one ſhall ſit.</p>
+                  <p>Now, hee that ſhall governe the whole action, who was choſen for this one thing by common conſent of voyce, the chiefe Paſtor of the place, being in the beginning Preſident, which office ſhall end, when the Councell ſhall be ended. There are no matters in queſtion to be propounded to theſe Councels to take knowledge of, but ſuch as are more ſpirituall and belong to that Province, where they are to be decided without appeale by the Word of God, and the rules there ſet downe, without any brabling or diſturbance of the company. Yet if any great private controverſie ſhall fall out in the Provinciall Synode, where ſome may think that he hath cauſe to complaine of injurie done unto him, hee may put up his com<g ref="char:EOLhyphen"/>plaint
+<pb n="14" facs="tcp:157112:9"/>
+to be decided in a generall Councell; when it ſhall be thought good to aſſemble it.</p>
+                  <p>Furthermore, it is chiefely required, that if all the Lawes of the Church be eſtabliſhed of the Kings Chriſtian Majeſtie: It fol<g ref="char:EOLhyphen"/>loweth, that the Councels are to be aſſembled by his commande<g ref="char:EOLhyphen"/>ment and direction, and not otherwiſe. Neither yet is there a new commiſſion every time to be ſought for of the King for that purpoſe, ſeeing his Majeſtie hath once eſtabliſhed a Law touching the ſet times of ordinary Synods. But yet if there ariſe juſt cauſe of ſuſpi<g ref="char:EOLhyphen"/>tion of handling in theſe meetings, other matters beſides meere Eccleſiaſticall, it ſhall be ſafe for the Kings Majeſty to ſend one of his Subjects whom he will, to grace by his preſence the meeting of the Synodes: where yet he is not to be as a Judge, except ſome thing fall out where it is neceſſary that the authority of the civill Magi<g ref="char:EOLhyphen"/>ſtrate be put betweene.</p>
+                  <p>A generall Councell of the Land is not to be aſſembled, but up<g ref="char:EOLhyphen"/>on great cauſes, which ſeeing they agree not with ſet times, it fol<g ref="char:EOLhyphen"/>loweth, that they are not to be ſtanding neither; but as often as ſomething ſhall ſeeme to fall out of ſo great weight, either in do<g ref="char:EOLhyphen"/>ctrine or in government of the Church, as cannot well be decided but in a generall meeting, that Province is to be careful, to put other Provinces in mind concerning that matter, in theſe halfe yeeres Synodes: that with the conſent of all, or the greater part, they goe unto the Kings Majeſty, who (as being a Chriſtian Prince, is to deſire nothing more, than the peace of the Churches) ought without any ſtay or doubting, at the ſuit of the Churches, to appoint a place and time for a generall meeting, as the need of the Churches ſhall re<g ref="char:EOLhyphen"/>quire. And the ſame order may ſeem to be kept in the general coun<g ref="char:EOLhyphen"/>cels, which is in the Provinciall, whether before the Kings Majeſty himſelfe, as in ſome generall Councels, the Emperours of <hi>Rome</hi> have been preſent, or before the honourable Lords of the Kings Majeſty. And laſt of all, whatſoever ſhall be allowed by the common con<g ref="char:EOLhyphen"/>ſent of the Synode, ſhall be confirmed by the Kings Maieſties ex<g ref="char:EOLhyphen"/>preſſe authority, after the example of the godly Emperours.</p>
+               </div>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
